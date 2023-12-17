@@ -1,1 +1,1 @@
-# UsersATMsMagzines
+# Projects for demonstration
